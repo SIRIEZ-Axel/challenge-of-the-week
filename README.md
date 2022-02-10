@@ -2,6 +2,6 @@
 
 Bonjour,
 
-Ceci est mon site afin à réaliser à l'occasion du challenge of the week
+Ceci est mon site à réaliser à l'occasion du challenge of the week.
 
 enjoy moi 
